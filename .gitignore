@@ -1,0 +1,5 @@
+build
+*.swp
+.vscode
+dump
+file
